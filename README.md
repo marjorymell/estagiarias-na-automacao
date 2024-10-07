@@ -1,20 +1,19 @@
 <div align="center">
+  <h1>:space_invader:Projeto de Aprendizado em Testes Automatizados com Cypress:space_invader:</h1>
   <img src="imgs/header.png" alt="header">
 </div>
-
-# Projeto de Aprendizado em Testes Automatizados com Cypress - Estágiarias de Quality Assurance
 
 ## :dart: Propósito do Projeto
 
 Este projeto tem como principal objetivo promover o aprendizado em testes automatizados utilizando o Cypress, uma ferramenta voltada para testes de Front-End.
 
 ## :clipboard: Sumário 
-1. Propósito do Projeto
-2. Tecnologias
-3. Estrutura do Repositório
-4. Casos de Testes 
-5. Como clonar o repositório
-6. Partipantes do Projeto
+1. [Propósito do Projeto](#bulb-tecnologias)
+2. [Tecnologias](#bulb-tecnologias)
+3. [Estrutura do Repositório](#mag_right-estrutura-do-repositório)
+4. [Casos de Testes](#speech_balloon-casos-de-testes)
+5. [Como clonar o repositório](#speech_balloon-casos-de-testes)
+6. [Partipantes do Projeto](#speech_balloon-casos-de-testes)
 
 ## :bulb: Tecnologias
 
@@ -30,11 +29,10 @@ Este projeto tem como principal objetivo promover o aprendizado em testes automa
 ## :computer: Execução dos Testes
 
 ## :trident: Projeto realizado por:
-- Beatriz Santos     
-**[Linkedin](www.linkedin.com/in/beatriz-santos-19a2731a0/)** 
-- Lívia Santos   
+- Lívia Santos:   
 **[Linkedin](www.linkedin.com/in/santosla)**
-- Marjory Mel     
+  
+- Marjory Mel:  
 **[Linkedin](www.linkedin.com/in/marjorymell/)**
 
 

@@ -1,7 +1,7 @@
 <div align="center">
   <h1>:space_invader:Projeto de Aprendizado em Testes Automatizados com Cypress:space_invader:</h1>
   <img src="imgs/header.png" alt="header">
-</div>
+git </div>
 
 ## :dart: Propósito do Projeto
 

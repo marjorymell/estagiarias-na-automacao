@@ -1,0 +1,34 @@
+{
+    "sort_desc":{
+        "description": "mais relevantes",
+        "url": "/s?q=celular&sort=score_desc&page=0"
+    },
+    "orders_desc":{
+        "description": "mais vendidos",
+        "url": "/s?q=celular&sort=orders_desc&page=0"
+    },
+    "discount_desc":{
+        "description": "desconto",
+        "url": "/s?q=celular&sort=discount_desc&page=0"
+    },
+    "price_asc":{
+        "description": "menores preços",
+        "url": "/s?q=celular&sort=price_asc&page=0"
+    },
+    "price_desc":{
+        "description": "maiores preços",
+        "url": "/s?q=celular&sort=price_desc&page=0"
+    },
+    "release_desc":{
+        "description": "data de lançamento",
+        "url": "/s?q=celular&sort=release_desc&page=0"
+    },
+    "name_asc":{
+        "description": "ordem alfabética crescente",
+        "url": "/s?q=celular&sort=name_asc&page=0"
+    },
+    "name_desc":{
+        "description": "ordem alfabética decrescente",
+        "url": "/s?q=celular&sort=name_desc&page=0"
+    }
+}

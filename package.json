@@ -1,9 +1,31 @@
 {
+  "name": "base-automation",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <h1>:space_invader:Projeto de Aprendizado em Testes Automatizados com Cypress:space_invader:</h1>\r   <img src=\"imgs/header.png\" alt=\"header\">\r git </div>",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint cypress/e2e/*.cy.js",
+    "lint:fix": "eslint cypress/**/**.js --fix",
+    "format": "prettier --write \"**/*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quality-digital/americanas-cypress-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quality-digital/americanas-cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/quality-digital/americanas-cypress-e2e#readme",
   "devDependencies": {
-    "cypress": "^13.15.0",
-    "eslint-plugin-cypress": "^3.5.0"
+    "cypress": "^13.6.4",
+    "eslint": "^9.13.0",
+    "eslint-plugin-cypress": "^4.1.0"
   },
   "dependencies": {
-    "cypress-plugin-api": "^2.11.2"
+    "cypress-plugin-xhr-toggle": "^1.2.1"
   }
 }
